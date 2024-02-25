@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Program pro = new Program();
             //pro.TwoDim();
             //pro.JaggedArray();
-            pro.Length_GetLength();
+            //pro.Length_GetLength();
             Console.ReadLine();
         }
         public void TwoDim()   // taking input from user in 2D array and display them
@@ -84,7 +84,7 @@ namespace ConsoleApp1
             // declaration of 2D array
             int[,] MyArray = new int[2, 3] { {1,2,4},{3,4,5} };
             Console.WriteLine(MyArray.Length);  // return total number of items in an array
-            Console.WriteLine(MyArray.GetLength(1)); // 
+            Console.WriteLine(MyArray.GetLength(0)); // 
 
 
         }
