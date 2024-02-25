@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Day1-3",
+    "\\Day1-3\\ConsoleApp1",
+    "\\Day1-3\\ConsoleApp1\\ConsoleApp1"
   ],
+  "SelectedNode": "\\Day1-3\\ConsoleApp1\\ConsoleApp1\\switchCASE.cs",
   "PreviewInSolutionExplorer": false
 }
